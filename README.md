@@ -1,4 +1,4 @@
-# Notes-Aplication
+# Notes-Application
 **How to setup:**
 1. Download the folder with all of its components
 2. Create a database and a table to store notes
